@@ -1,0 +1,14 @@
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.AssemblyInfoInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.AssemblyInfo.cs
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.csproj.CoreCompileInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/bin/Debug/net8.0/Classy_Classes
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/bin/Debug/net8.0/Classy_Classes.deps.json
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/bin/Debug/net8.0/Classy_Classes.runtimeconfig.json
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/bin/Debug/net8.0/Classy_Classes.dll
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/bin/Debug/net8.0/Classy_Classes.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.dll
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/refint/Classy_Classes.dll
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/Classy_Classes.genruntimeconfig.cache
+/home/igorcgouveia/Área de trabalho/Codewars/Classy_Classes/obj/Debug/net8.0/ref/Classy_Classes.dll

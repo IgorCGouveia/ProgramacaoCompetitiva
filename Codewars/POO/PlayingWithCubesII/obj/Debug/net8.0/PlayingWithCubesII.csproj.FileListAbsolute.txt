@@ -1,0 +1,14 @@
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.AssemblyInfoInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.AssemblyInfo.cs
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.csproj.CoreCompileInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/bin/Debug/net8.0/PlayingWithCubesII
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/bin/Debug/net8.0/PlayingWithCubesII.deps.json
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/bin/Debug/net8.0/PlayingWithCubesII.runtimeconfig.json
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/bin/Debug/net8.0/PlayingWithCubesII.dll
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/bin/Debug/net8.0/PlayingWithCubesII.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.dll
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/refint/PlayingWithCubesII.dll
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/PlayingWithCubesII.genruntimeconfig.cache
+/home/igorcgouveia/Área de trabalho/Codewars/PlayingWithCubesII/obj/Debug/net8.0/ref/PlayingWithCubesII.dll

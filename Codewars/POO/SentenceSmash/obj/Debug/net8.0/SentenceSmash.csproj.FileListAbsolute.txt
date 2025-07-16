@@ -1,0 +1,14 @@
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.AssemblyInfoInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.AssemblyInfo.cs
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.csproj.CoreCompileInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/bin/Debug/net8.0/SentenceSmash
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/bin/Debug/net8.0/SentenceSmash.deps.json
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/bin/Debug/net8.0/SentenceSmash.runtimeconfig.json
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/bin/Debug/net8.0/SentenceSmash.dll
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/bin/Debug/net8.0/SentenceSmash.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.dll
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/refint/SentenceSmash.dll
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/SentenceSmash.genruntimeconfig.cache
+/home/igorcgouveia/Área de trabalho/Codewars/SentenceSmash/obj/Debug/net8.0/ref/SentenceSmash.dll

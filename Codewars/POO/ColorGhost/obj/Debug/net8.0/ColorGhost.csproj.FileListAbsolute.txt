@@ -1,0 +1,14 @@
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.AssemblyInfoInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.AssemblyInfo.cs
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.csproj.CoreCompileInputs.cache
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/bin/Debug/net8.0/ColorGhost
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/bin/Debug/net8.0/ColorGhost.deps.json
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/bin/Debug/net8.0/ColorGhost.runtimeconfig.json
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/bin/Debug/net8.0/ColorGhost.dll
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/bin/Debug/net8.0/ColorGhost.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.dll
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/refint/ColorGhost.dll
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.pdb
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ColorGhost.genruntimeconfig.cache
+/home/igorcgouveia/Área de trabalho/Codewars/ColorGhost/obj/Debug/net8.0/ref/ColorGhost.dll
