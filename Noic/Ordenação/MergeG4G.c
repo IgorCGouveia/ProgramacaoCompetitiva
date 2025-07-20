@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Merges two subarrays of arr[].
-// First subarray is arr[l..m]
-// Second subarray is arr[m+1..r]
+#define MAXN 10000
+int arr[MAXN];
+
+
+
 void merge(int arr[], int l, int m, int r){
     
     int i, j, k;
@@ -70,12 +72,17 @@ void mergeSort(int arr[], int l, int r){
 // Driver code
 int main(){
     
-    int arr[] = {38, 27, 43, 10};
-    int arr_size = sizeof(arr) / sizeof(arr[0]);
+    int n;
 
-    mergeSort(arr, 0, arr_size - 1);
+    scanf("%d", &n);
+    for(int i = 0; i < n; i++){
+        scanf("%d", &arr[i]);
+    }
+
+
+    mergeSort(arr, 0, n - 1);
     int i;
-    for (i = 0; i < arr_size; i++)
+    for (i = 0; i < n; i++)
         printf("%d ", arr[i]);
     printf("\n");
     
